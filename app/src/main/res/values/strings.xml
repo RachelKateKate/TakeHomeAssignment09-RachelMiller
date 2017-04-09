@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TakeHomeAssignment09-RachelMiller</string>
+    <string name="add_to_firebase">Add To Firebase</string>
+    <string name="is_complete">Is Complete</string>
+    <string name="hours">Hours</string>
+    <string name="assignment">Assignment</string>
+</resources>
