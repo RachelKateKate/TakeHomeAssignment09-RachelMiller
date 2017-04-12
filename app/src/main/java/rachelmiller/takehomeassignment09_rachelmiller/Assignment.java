@@ -4,12 +4,13 @@ package rachelmiller.takehomeassignment09_rachelmiller;
  * Created by rachelmiller on 4/9/17.
  */
 
+
 public class Assignment {
     private String name;
     private int hours;
     private boolean complete;
 
-    public Assignment(Assignment assignment) {
+    public Assignment() {
 
     }
 
